@@ -20,8 +20,8 @@ export function Footer() {
             </h3>
             <p className="text-gray-400 mb-4">
               {t(
-                'Serving authentic North Indian cuisine with love and tradition since 2002.',
-                '2002 से प्यार और परंपरा के साथ प्रामाणिक उत्तर भारतीय व्यंजन परोस रहे हैं।'
+                'Serving authentic North Indian cuisine with love and tradition since 1995.',
+                '1995 से प्यार और परंपरा के साथ प्रामाणिक उत्तर भारतीय व्यंजन परोस रहे हैं।'
               )}
             </p>
             <div className="flex space-x-4">
@@ -111,7 +111,7 @@ export function Footer() {
         <div className="border-t border-gray-800 pt-8 text-center text-gray-400 text-sm">
           <p>© 2025 Daawat-e-Kuldeep. {t('All rights reserved.', 'सर्वाधिकार सुरक्षित।')}</p>
           <p className="mt-2">
-            {t('Developed by', 'आयुष')}  {t('Aayush', 'द्वारा निर्मित')}
+            {t('Developed by', 'आयुष')} {t('Aayush', 'द्वारा निर्मित')}
           </p>
         </div>
       </div>

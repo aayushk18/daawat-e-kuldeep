@@ -20,7 +20,7 @@ export function Hero() {
           <div className="inline-flex items-center space-x-2 bg-amber-600/20 backdrop-blur-sm px-4 py-2 rounded-full mb-6">
             <Sparkles size={16} className="text-amber-400" />
             <span className="text-amber-300 text-sm font-medium">
-              {t('Authentic North Indian Cuisine Since 2002', '2002 से प्रामाणिक उत्तर भारतीय व्यंजन')}
+              {t('Authentic North Indian Cuisine Since 1995', '1995 से प्रामाणिक उत्तर भारतीय व्यंजन')}
             </span>
           </div>
 

@@ -119,7 +119,7 @@ export function Reservations() {
                   value={formData.customer_phone}
                   onChange={(e) => setFormData({ ...formData, customer_phone: e.target.value })}
                   className="w-full px-4 py-3 rounded-lg border border-gray-300 dark:border-gray-600 bg-white dark:bg-gray-700 text-gray-900 dark:text-white focus:ring-2 focus:ring-amber-500 focus:border-transparent"
-                  placeholder="+91 9198106 35268"
+                  placeholder="+91 98106 35268"
                 />
               </div>
 

@@ -26,12 +26,12 @@ export function About() {
   const features = [
     {
       icon: Heart,
-      title: t('with Love', 'प्यार से बनाया'),
+      title: t('Made with Love', 'प्यार से बनाया'),
       description: t('Every dish prepared with passion and authenticity', 'हर व्यंजन जुनून और प्रामाणिकता के साथ तैयार'),
     },
     {
       icon: Award,
-      title: t('20+ Years Legacy', '30+ वर्ष की विरासत'),
+      title: t('30+ Years Legacy', '30+ वर्ष की विरासत'),
       description: t('Three decades of culinary excellence', 'तीन दशकों की पाक उत्कृष्टता'),
     },
     {
